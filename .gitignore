@@ -3,3 +3,4 @@ SFTEST/API/node_modules/
 SFTEST/UserInterface/node_modules/
 SFTEST/UserInterface/.expo/
 security
+__pycache__
