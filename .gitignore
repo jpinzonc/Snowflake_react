@@ -1,0 +1,5 @@
+SFTEST/node_modules/
+SFTEST/API/node_modules/
+SFTEST/UserInterface/node_modules/
+SFTEST/UserInterface/.expo/
+security
