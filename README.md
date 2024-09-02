@@ -9,6 +9,8 @@ FREE Acccount in SF does not have Hybrid Tables, but the code worked after all t
 
 There were a lot of changes to be done from the original code. 
 
+Instead of installing from requirements, create environment and install as modelu not found error appears. This reduces the errors connecting to snowflake. 
+
 A lot of errors with the connection. 
 
 Pay attention to the ACCOUNT LOCATOR
