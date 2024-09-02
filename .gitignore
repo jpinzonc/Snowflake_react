@@ -1,6 +1,10 @@
-SFTEST/node_modules/
-SFTEST/API/node_modules/
-SFTEST/UserInterface/node_modules/
-SFTEST/UserInterface/.expo/
+SF_REACT_APP/node_modules/
+SF_REACT_APP/API/node_modules/
+SF_REACT_APP/UserInterface/node_modules/
+SF_REACT_APP/UserInterface/.expo/
+
+
+
+
 security
 __pycache__
