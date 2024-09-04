@@ -15,21 +15,23 @@ A lot of errors with the connection.
 
 Pay attention to the ACCOUNT LOCATOR
 
-##### TO STARTE THE SERVER: 
+##### TO START THE SERVER: 
 
-- Inside /API:
+You need to run two steps in two separate terminals: 
 
-	run node ./node_modules/serverless/bin/serverless wsgi serve
+1. Inside /API run
 
-THEN:
+	node ./node_modules/serverless/bin/serverless wsgi serve
 
-- Inside /UserInterface
+2. Inside /UserInterface run: 
 
-	Run npm install
+	npm install
 
-	Run npx expo start --clear and hit w key to run the app in a web browser. 
-			
-			If you are encountering "Error: error:0308010C:digital envelope routines::unsupported", Run export NODE_OPTIONS=--openssl-legacy-provider
+	then run: 
+	
+	npx expo start --clear -- and hit w key to run the app in a web browser. 
+	
+	If you are encountering "Error: error:0308010C:digital envelope routines::unsupported", Run export NODE_OPTIONS=--openssl-legacy-provider
 
 
 	The application should open in localhost:19006
