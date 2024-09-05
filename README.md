@@ -5,6 +5,7 @@
 	https://quickstarts.snowflake.com/guide/developing-react-native-applications-using-hybrid-tables-sql-alchemy-flask/index.html?index=..%2F..index#3
 
 
+
 FREE Acccount in SF does not have Hybrid Tables, but the code worked after all troubleshooting. 
 
 There were a lot of changes to be done from the original code. 
